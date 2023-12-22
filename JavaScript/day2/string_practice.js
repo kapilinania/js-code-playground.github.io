@@ -39,3 +39,7 @@ console.log(newTrim.trim())
 const url = "https://kapil.com/kapil%20inaniya"
 
 console.log(url.replace('%20', '-'))
+
+console.log(url.includes('nsti'))
+console.log(url.includes('kapil'))
+console.log(gameName.split('-'))
